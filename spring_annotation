@@ -6,4 +6,9 @@ https://jingzh.blog.csdn.net/article/details/99225645
 在类中可 使用 ＠Value来引用 PropertySource中的值
 
 3.@Component("simple123")
+@Bean也一样
 可以命令别名， 没有参数 则bean名跟类名一致
+
+4.@Scope @ScopedProxyMode
+购物车Service 与购物车bean的注入
+https://blog.csdn.net/qq_32077121/article/details/107805007
