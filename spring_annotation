@@ -2,5 +2,8 @@
 https://jingzh.blog.csdn.net/article/details/99225645
 简要:@Configurable 需要和 @EnableSpringConfigured 一起使用。从而完成，非Spring管理的类中使用依赖注入
 
-2.PropertySource
+2.@PropertySource
 在类中可 使用 ＠Value来引用 PropertySource中的值
+
+3.@Component("simple123")
+可以命令别名， 没有参数 则bean名跟类名一致
