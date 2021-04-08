@@ -12,3 +12,6 @@ https://jingzh.blog.csdn.net/article/details/99225645
 4.@Scope @ScopedProxyMode
 购物车Service 与购物车bean的注入
 https://blog.csdn.net/qq_32077121/article/details/107805007
+
+5.@Retention @Documented @Target
+https://blog.csdn.net/m0_37574389/article/details/88312919
